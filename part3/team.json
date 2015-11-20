@@ -1,0 +1,27 @@
+{"teammembers": [
+    {
+        "name": "Wilbur Wonka",
+        "title": "Digital Chocolate",
+        "bio": "After turning his chocolate empire over to the little Austrian toehead, Willy Wonka followed his dream by going digital. He founded Vecta Corp. to bring that sweet taste of chocolate to the digital masses. Commercializing sugary software into media madness. Vecta after all is oompa loompa for 'Chocolate Surprise.'" 
+    },
+    {
+        "name": "Abby Abacus",
+        "title": "The Cypher",
+        "bio": "When it comes to counting, she has the digits. After years of toil on a bean farm in charge of inventory, Abby has proven to be Vecta Corporation's number one accountant. You thought I was gonna say bean counter. She can cypher anything."
+    },
+    {
+        "name": "Damon Dev",
+        "title": "El Diablo",
+        "bio": "They call Damon 'El Diablo' because he is a devil of a developer when it comes to designing solutions for you suckers. He uses shiny baubles and animation to make you think your software is doing miraculous things. But Abby is just popping the numbers in a spreadsheet which are conveniently presented to you in flashing colors with sound effects to make it seem like a truly digital experience."
+    },
+    {
+        "name": "Herbert Humorless",
+        "title": "Mr. Party Pooper",
+        "bio": "What can you say about the head of HR other than he can't take a joke. Am I right? Don't invite him to your party of the first thing to happen will is he will put an OSHA poster near the keg."
+    },
+    {
+        "name": "Mike Money",
+        "title": "Merciless Mike",
+        "bio": "Once Mad Mike has his hooks into you, your not going anywhere. He is the reason vRetain is still in its first incarnation."
+    }    
+]}
